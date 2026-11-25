@@ -1,0 +1,7 @@
+jellyfin/
+sonarr/
+radarr/
+prowlarr/
+qbittorrent/
+seerr/
+.env
